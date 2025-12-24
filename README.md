@@ -2,7 +2,7 @@
 
 TO-DO-LIST (Made using HTML5 CSS3 and JavaScript)
 
-You can see the website live at: 
+You can see the website live at: https://heroic-pavlova-6e289a.netlify.app/
 
 ABOUT THIS PROJECT-:
 
