@@ -10,3 +10,6 @@ ABOUT THIS PROJECT-:
   2. Built a To-Do List application to make a list of daily works written down in one place.
   3. Implemented functionalities like add task, remove task, filter tasks and also mark tasks as done.
  
+S1.png
+S2.png
+S3.png
